@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>  
+		<title> my first project ! </title>
+    </head>
+    
+    <body>
+      <nav>
+      <a href ="navbar">navbar</a>
+      <a href ="home">home</a>
+      <a href ="navbar">navbar</a>
+      <a href ="about">about</a>
+      <a href ="work>work"></a> <a>
+      <a href ="resume">resume</a>
+      <a href ="contact">contact</a>
+      </nav>
+
+      <h1> my first project </h1>
+      <ul>
+          <li>about</li>
+          <li>work</li>
+          <li>resume</li>
+          <li>contact</li>
+      </ul>
+
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/zcTFG_F0FRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      <form>
+      <label>about:</label>
+      <input type="text" name="project" name="Type your text here"/>
+      <br/>
+
+
+      <label>work:</label>
+      <input type="text" name="project" name="Type your text here"/>
+      <br/>
+
+
+      <label>resume:</label>
+      <input type="text" name="resume" name="Type your text here"/>
+      <br/>
+
+
+      <label>contact:</label>
+      <input type="text" name="contact" name="Type your text here" />
+      <br/>
+</form>
+
+  </body>
+</html>
